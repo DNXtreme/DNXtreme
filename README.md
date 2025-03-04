@@ -16,7 +16,7 @@
 
 ## **📥 Download Links:**  
 🔹 **GSI ROM:** [GitHub Releases](https://github.com/DNXtreme/DNXtreme/releases)  
-🔹 **Tweaks Module (Required for Tweaks to Work):** [Download Here](https://github.com/DNXtreme/DNXtreme/releases)  
+🔹 **Tweaks.apk And Wall.apk Inside The Rom Zip File (Required for Tweaks to Work):** [Download Here](https://github.com/DNXtreme/DNXtreme/releases)  
 
 ---
 
@@ -28,8 +28,8 @@
 3. **Boot into Recovery:** Use TWRP or any custom recovery.  
 4. **Wipe Data:** Wipe **System, Data, Cache, and Dalvik**.  
 5. **Flash GSI Image:** Select `Install Image` and flash the `.img` file to **system partition**.  
-6. **Flash Magisk ** For root access.  
-7. **Flash Tweaks.zip Module (Required for Tweaks)** via Magisk / KSU / Apatch 
+6. **Flash Magisk ** (Optional) For root access.  
+7. **install tweaks.apk and wall.apk from the rom zip**
 8. **Reboot & Enjoy!**  
 
 ### **🔹 Method 2: Flash via Fastboot (For Non-TWRP Devices)**  
@@ -44,7 +44,7 @@
    fastboot reboot
    ```  
 5. **Boot into System & Set Up Device**.  
-6. **Install Magisk & Flash Tweaks.zip Module**.  
+6. **install tweaks.apk and wall.apk from the rom zip**
 7. **Reboot & Enjoy!**  
 
 ---
