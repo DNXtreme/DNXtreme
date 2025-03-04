@@ -23,27 +23,29 @@
 ## **📖 Installation Guide:**  
 
 ### **🔹 Method 1: Using Custom Recovery (TWRP/OrangeFox)**  
-1. **Backup Data:** Take a full backup before flashing.  
-2. **Boot into Recovery:** Use TWRP or any custom recovery.  
-3. **Wipe Data:** Wipe **System, Data, Cache, and Dalvik**.  
-4. **Flash GSI Image:** Select `Install Image` and flash the `.img` file to **system partition**.  
-5. **Flash Magisk ** For root access.  
-6. **Flash Tweaks.zip Module (Required for Tweaks)** via Magisk / KSU / Apatch 
-7. **Reboot & Enjoy!**  
+1. **Unzip Rom:** Unzip The Gsi Zip File.  
+2. **Backup Data:** Take a full backup before flashing.  
+3. **Boot into Recovery:** Use TWRP or any custom recovery.  
+4. **Wipe Data:** Wipe **System, Data, Cache, and Dalvik**.  
+5. **Flash GSI Image:** Select `Install Image` and flash the `.img` file to **system partition**.  
+6. **Flash Magisk ** For root access.  
+7. **Flash Tweaks.zip Module (Required for Tweaks)** via Magisk / KSU / Apatch 
+8. **Reboot & Enjoy!**  
 
 ### **🔹 Method 2: Flash via Fastboot (For Non-TWRP Devices)**  
-1. **Enable Developer Options & USB Debugging**.  
-2. **Reboot to Fastboot Mode:** (`adb reboot bootloader`)  
-3. **Flash GSI Image:**  
+1. **Unzip Rom:** Unzip The Gsi Zip File.  
+2. **Enable Developer Options & USB Debugging**.  
+3. **Reboot to Fastboot Mode:** (`adb reboot bootloader`)  
+4. **Flash GSI Image:**  
    ```sh
    fastboot erase system
    fastboot flash system DNXtremeBase.img
    fastboot -w
    fastboot reboot
    ```  
-4. **Boot into System & Set Up Device**.  
-5. **Install Magisk & Flash Tweaks.zip Module**.  
-6. **Reboot & Enjoy!**  
+5. **Boot into System & Set Up Device**.  
+6. **Install Magisk & Flash Tweaks.zip Module**.  
+7. **Reboot & Enjoy!**  
 
 ---
 
