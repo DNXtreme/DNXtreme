@@ -37,7 +37,7 @@
 3. **Flash GSI Image:**  
    ```sh
    fastboot erase system
-   fastboot flash system YOUR_ROM.img
+   fastboot flash system DNXtremeBase.img
    fastboot -w
    fastboot reboot
    ```  
