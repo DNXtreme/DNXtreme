@@ -4,7 +4,7 @@
 
 ### 🔥 **What I Do:**  
 - **📱 Custom ROM Development** – Creating **lightweight, performance-focused** ROMs  
-- **📱 Custom ROM Modification** – Modify **Custom Rom, Gsi ** ROMs  
+- **📱 Custom ROM Modification** – Modify **Custom ROMs, Gsi ROMs** 
 - **⚙️ Magisk & KernelSU Modules** – Tweaks to **boost gaming & system performance**  
 - **🎨 UI Customization** – Adding **unique themes, control centers, and animations**  
 - **🛠️ Android Mods & Optimizations** – Improving speed, battery life, and system efficiency  
