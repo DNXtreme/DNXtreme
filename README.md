@@ -48,6 +48,7 @@
 7. **Reboot & Enjoy!**  
 
 ---
+**Join Telegram :** [@Dnnetworkapp](https://t.me/dnnetworkapp)  
 
 ## **📌 Credits:**  
 - **Superior OS Team** – For the base ROM  
